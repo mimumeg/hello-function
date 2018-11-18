@@ -23,8 +23,8 @@ print(result_1)
 
 # 1分課題
 def str_combine(str1, str2):
-    return str1 + str2
-
+    # return str1 + str2
+    return f"{str1}{str2}"
 
 result = str_combine("Kazuma", "Takahashi")  # TakahashiKazumaを返す
 print(result)
