@@ -17,3 +17,4 @@ amount3 = 3647
 number_of_people3 = 4
 
 print(f"1人あたり: {amount3 // number_of_people3}円, 端数: {amount3 % number_of_people3}円")
+ple}
